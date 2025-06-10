@@ -1,2 +1,2 @@
 # ALURA-2BIMESTRE-
-Programação 
+Programação e elaboração de um portifólio no GitHub
